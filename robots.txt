@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://theouscidda6.github.io/al-folio/sitemap.xml
