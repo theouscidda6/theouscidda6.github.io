@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ☀️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://theouscidda6.github.io # the base hostname & protocol for your personal site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -272,8 +272,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Uscidda]
+  first_name: [Théo]
 
   style: apa
   locale: en
