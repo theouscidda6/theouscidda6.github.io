@@ -9,8 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular [CREST](https://crest.science/)-[ENSAE](https://www.ensae.fr/), [IP-Paris](https://www.ip-paris.fr/)
   more_info: >
-    <p>○ CREST - ENSAE, IP Paris</p>
-    <p>○ Helmholtz - Technical University of Munich</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
