@@ -4,12 +4,6 @@
   <head>
     {%- include head.html %}
 
-    {%- if site.enable_medium_zoom %}
-      <!-- Medium Zoom JS -->
-      <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@{{ site.medium_zoom.version }}/dist/medium-zoom.min.js" integrity="{{ site.medium_zoom.integrity }}" crossorigin="anonymous"></script>
-      <script defer src="{{ '/assets/js/zoom.js' | relative_url | bust_file_cache }}"></script>
-    {%- endif -%}
-
     {% include scripts/jquery.html %}
     {% include scripts/mathjax.html %}
     <!-- Distill js -->
@@ -72,9 +66,8 @@
         <h1>{{ page.title }}</h1>
         <p>{{ page.description }}</p>
       </d-title>
-      {%- if page.authors -%}
+
       <d-byline></d-byline>
-      {%- endif -%}
 
       <d-article>
         {% if page.toc -%}
@@ -103,22 +96,31 @@
         <d-citation-list></d-citation-list>
       </d-appendix>
 
-      <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
-
-      {%- if site.disqus_shortname and page.disqus_comments -%}
-        {% include disqus.html %}
-      {%- endif %}
-      {%- if site.giscus.repo and page.giscus_comments -%}
-        {% include giscus.html %}
-      {%- endif -%}
-
     </div>
 
     <!-- Footer -->
     {%- include footer.html %}
 
+    <d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}"></d-bibliography>
+    
+    {% if site.disqus_shortname and page.comments %}
+    <d-article>
+      <div id="disqus_thread"></div>
+    </d-article>
+    <script type="text/javascript">
+      var disqus_shortname  = '{{ site.disqus_shortname }}';
+      var disqus_identifier = '{{ page.id }}';
+      var disqus_title      = '{{ page.title | jsonify }}';
+      (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+      })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  {% endif %}
+
     {% include scripts/bootstrap.html %}
     {% include scripts/analytics.html %}
-    {% include scripts/progressBar.html %}
   </body>
 </html>
