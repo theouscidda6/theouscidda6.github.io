@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: |+
+  <strong>Ph.D.</strong> at <a href="https://crest.science/">CREST</a>-<a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">IP Paris</a> <br><br>
+  <strong>Long-term Visiting Ph.D. at <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz</a>-<a href="https://www.tum.de/en/">Technical University of Munich</a> <br>
+
 
 profile:
   align: right
