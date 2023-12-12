@@ -21,8 +21,8 @@ social: true  # includes social icons at the bottom of the page
 <!-- <strong>Ph.D.</strong> at <a href="https://crest.science/">CREST</a>-<a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a> <br>
   <strong>Long-term Visiting Ph.D.</strong> at <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz</a>-<a href="https://www.tum.de/en/">Technical University of Munich</a> -->
 
-<strong>Ph.D.</strong> with <a href="https://marcocuturi.net/">Marco Cuturi at <a href="https://crest.science/">CREST</a> - <a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a> <br>
-<strong>Visiting Ph.D.</strong>  with <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Fabian Theis</a> at <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz</a>, <a href="https://www.tum.de/en/">Technical University of Munich</a>  
+<strong>Ph.D.</strong> with <a href="https://marcocuturi.net/">Marco Cuturi</a> @ <a href="https://crest.science/">CREST</a> - <a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a> <br>
+<strong>Visiting Ph.D.</strong>  with <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Fabian Theis</a> @ <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz</a>, <a href="https://www.tum.de/en/">Technical University of Munich</a> <br>
 
 <!-- with <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Fabian Theis</a>-->
 <!-- with <a href="https://marcocuturi.net/">Marco Cuturi</a>-->
