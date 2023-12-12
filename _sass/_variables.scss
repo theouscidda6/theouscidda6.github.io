@@ -3,6 +3,7 @@
  * To adjust anything, simply edit the variables below and rebuild the theme.
  ******************************************************************************/
 
+
 // Colors
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
@@ -21,6 +22,9 @@ $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
+$caltech-orange: #ff6c0c !default;
+$caltech-purple: #644B78 !default;
+$caltech-blue: #00A1DF !default;
 
 $grey-color:          #828282 !default;
 $grey-color-light:    lighten($grey-color, 40%);
@@ -30,10 +34,8 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+
 // Theme colors
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
-
-// Font awesome location
-$fa-font-path: "../webfonts";
