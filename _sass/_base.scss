@@ -349,17 +349,14 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
-
+  text-align: left;
   .contact-icons {
-    font-size: 4rem;
-
+    font-size: 3rem;
     a {
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
-
       &:hover {
         i::before {
           color: var(--global-theme-color);
@@ -367,6 +364,11 @@ blockquote {
       }
     }
   }
+  .contact-note {
+    text-align: left;
+    font-size: 0.8rem;
+  }
+}
 
   .contact-note {
     font-size: 0.8rem;
