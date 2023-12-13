@@ -33,31 +33,31 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Cuturi":
-  - firstname: ["Marco"]
-    url: https://marcocuturi.net/
+# "Cuturi":
+#   - firstname: ["Marco"]
+#     url: https://marcocuturi.net/
 
-"Klein":
-  - firstname: ["Dominik"]
-    url: https://scholar.google.com/citations?hl=en&user=Zs1w-ukAAAAJ
+# "Klein":
+#   - firstname: ["Dominik"]
+#     url: https://scholar.google.com/citations?hl=en&user=Zs1w-ukAAAAJ
 
-"Theis"
-  - firstname: ["Fabian"]
-    url: https://www.helmholtz-munich.de/en/icb/pi/fabian-theis
+# "Theis"
+#   - firstname: ["Fabian"]
+#     url: https://www.helmholtz-munich.de/en/icb/pi/fabian-theis
 
-"Eyring"
-  - firstname: ["Luca"]
-    url: https://lucaeyring.com/
+# "Eyring"
+#   - firstname: ["Luca"]
+#     url: https://lucaeyring.com/
 
-"Akata"
-  - firstname: ["Zeynep"]
-    url: https://www.eml-unitue.de/people/zeynep-akata
+# "Akata"
+#   - firstname: ["Zeynep"]
+#     url: https://www.eml-unitue.de/people/zeynep-akata
 
-"Kilbertus"
-  - firstname: ["Niki"]
-    url: https://sites.google.com/view/nikikilbertus/home
+# "Kilbertus"
+#   - firstname: ["Niki"]
+#     url: https://sites.google.com/view/nikikilbertus/home
 
-"Palla"
-  - firstname: ["Giovanni"]
-    url: https://scholar.google.com/citations?user=20uwxzkAAAAJ&hl=en
+# "Palla"
+#   - firstname: ["Giovanni"]
+#     url: https://scholar.google.com/citations?user=20uwxzkAAAAJ&hl=en
 
