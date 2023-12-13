@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-I teach **tutorial classes** to both **undergraduate and graduate students** at [ENSAE](https://www.ensae.fr/) – [Insititut Polytechnique de Paris](https://www.ip-paris.fr/). Some graduate courses I am a teaching assistant for are part of the [Data Science MSc](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science) at [École Poltechnique](https://www.polytechnique.edu/). By the end of my Ph.D., I will have taught a total of **192 hours** of tutorial sessions. Below are the courses I am currently teching, or I taught, in reverse chronological order:
+I teach **tutorial classes** to both **undergraduate and graduate students** at [ENSAE](https://www.ensae.fr/) – [Insititut Polytechnique de Paris](https://www.ip-paris.fr/). Some graduate courses I am a teaching assistant for are part of the [Data Science MSc](https://www.ip-paris.fr/education/masters/mention-mathematiques-appliquees-statistique/master-year-2-data-science) at [École Poltechnique](https://www.polytechnique.edu/). By the end of my Ph.D., I will have taught a total of **192 hours** of tutorial sessions. Below are the courses I am currently teaching, or I taught, in reverse chronological order:
 
 **Computational Optimal Transport**, *Spring 2023, 2024*<br>
 Graduate course taught by [Marco Cuturi](https://marcocuturi.net/index.html), 70 students.<br>
