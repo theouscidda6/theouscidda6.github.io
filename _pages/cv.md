@@ -9,5 +9,3 @@ description:
 toc:
   sidebar: left
 ---
-
-Please click on the **pdf** button to get my CV. Last update on December 10, 2023.
