@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am at ICML in Honolulu, Hawaï, presenting our paper [The Monge Gap: A Regularizer to Learn All Transport Maps](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf). See you at poster 333 togheter with [Marco Cuturi](https://marcocuturi.net/)!
+I am at ICML in Honolulu, Hawaii, presenting our paper [The Monge Gap: A Regularizer to Learn All Transport Maps](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf). See you at poster 333 togheter with [Marco Cuturi](https://marcocuturi.net/)!
