@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting from February 2024, I will visit [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis) at [Helmholtz](https://www.helmholtz-munich.de/en), [Technical University of Munich](https://www.tum.de/en/) to work on generative modeling for single-cell biology. See you in Munich!
+Starting from February 2024, I will visit [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis) at [Helmholtz Munich](https://www.helmholtz-munich.de/en) to work on generative modeling for single-cell biology. See you in Munich!
