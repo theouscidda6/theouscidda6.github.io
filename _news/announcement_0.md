@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Back in Munich! I have rejoined [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)' lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en). I will keep working on single-cell perturbations. 
+Back in Munich! I have rejoined [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)' lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en), where I will keep working on single-cell perturbations. 
