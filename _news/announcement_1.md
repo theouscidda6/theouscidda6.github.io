@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)'s lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en), where I will be working on generative modeling for single-cell perturbation discovery. See you in Munich!
+I have joined [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)' lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en), where I will be working on generative modeling for single-cell perturbation discovery. See you in Munich!
