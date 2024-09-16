@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on [unbalanced Monge maps](https://arxiv.org/pdf/2311.15100.pdf) has been accepted to ICLR. See you in Vienna!
+Our paper on [unbalanced Monge maps](https://arxiv.org/pdf/2311.15100.pdf) has been accepted to ICLR 2024. See you in Vienna!
