@@ -5,7 +5,7 @@ permalink: /
 subtitle: |+
   <strong>Ph.D.</strong> with <a href="https://marcocuturi.net/">Marco Cuturi</a> @ <a href="https://crest.science/">CREST</a> - <a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a> <br>
   <strong>Visiting Ph.D.</strong> hosted by <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Fabian Theis</a> @ <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz Munich</a>, <a href="https://www.tum.de/en/">Technical University of Munich</a> <br>
-  <strong>Internships:</strong> incoming <a href="https://www.amazon.science/"> AWS Amazon AI Labs</a>, <a href="https://www.amazon.science/"> Fundamental Research Team</a> – past <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a>, <a href="https://www.simonsfoundation.org/">Simons Foundation</a>
+  <strong>Internships:</strong> incoming <a href="https://www.amazon.science/"> AWS Amazon AI Labs</a>, <a href="https://www.amazon.science/"> Fundamental Research Team</a> – past <a href="https://www.simonsfoundation.org/flatiron/">Flatiron Institute</a>, <a href="https://www.simonsfoundation.org/">Simons Foundation</a>.
 
 
 profile:
