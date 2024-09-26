@@ -2,16 +2,15 @@
 ---
 
 @article{bonet2024mirror,
-      title={Mirror and Preconditioned Gradient Descent in Wasserstein Space}, 
-      author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
-      year={2024},
-      abstract={As the problem of minimizing functionals on the Wasserstein space encompasses many applications in machine learning, different optimization algorithms on \mathbb{R}^d have received their counterpart analog on the Wasserstein space. We focus here on lifting two explicit algorithms: mirror descent and preconditioned gradient descent. These algorithms have been introduced to better capture the geometry of the function to minimize and are provably convergent under appropriate (namely relative) smoothness and convexity conditions. Adapting these notions to the Wasserstein space, we prove guarantees of convergence of some Wasserstein-gradient-based discrete-time schemes for new pairings of objective functionals and regularizers. The difficulty here is to carefully select along which curves the functionals should be smooth and convex. We illustrate the advantages of adapting the geometry induced by the regularizer on ill-conditioned optimization tasks, and showcase the improvement of choosing different discrepancies and geometries in a computational biology task of aligning single-cells.},
-      abbr={NeurIPS},
-      journal={arXiv:2310.09254},
-      pdf={https://arxiv.org/pdf/2406.08938},
-      booktitle={the Thirty-Eighth Annual Conference on Neural Information Processing Systems},
-      award={Spotlight},
-      selected={true}
+    title={Mirror and Preconditioned Gradient Descent in Wasserstein Space}, 
+    author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
+    year={2024},
+    abstract={As the problem of minimizing functionals on the Wasserstein space encompasses many applications in machine learning, different optimization algorithms on \mathbb{R}^d have received their counterpart analog on the Wasserstein space. We focus here on lifting two explicit algorithms: mirror descent and preconditioned gradient descent. These algorithms have been introduced to better capture the geometry of the function to minimize and are provably convergent under appropriate (namely relative) smoothness and convexity conditions. Adapting these notions to the Wasserstein space, we prove guarantees of convergence of some Wasserstein-gradient-based discrete-time schemes for new pairings of objective functionals and regularizers. The difficulty here is to carefully select along which curves the functionals should be smooth and convex. We illustrate the advantages of adapting the geometry induced by the regularizer on ill-conditioned optimization tasks, and showcase the improvement of choosing different discrepancies and geometries in a computational biology task of aligning single-cells.},
+    abbr={NeurIPS},
+    pdf={https://arxiv.org/pdf/2406.08938},
+    booktitle={the Thirty-Eighth Annual Conference on Neural Information Processing Systems},
+    award={Spotlight},
+    selected={true}
 }
 
 @article{klein2024entropic,
@@ -20,21 +19,20 @@
     abstract={Optimal transport (OT) theory has reshaped the field of generative modeling: Combined with neural networks, recent \textit{Neural OT} (N-OT) solvers use OT as an inductive bias, to focus on ``thrifty'' mappings that minimize average displacement costs. This core principle has fueled the successful application of N-OT solvers to high-stakes scientific challenges, notably single-cell genomics. N-OT solvers are, however, increasingly confronted with practical challenges: while most N-OT solvers can handle squared-Euclidean costs, they must be repurposed to handle more general costs; their reliance on deterministic Monge maps as well as mass conservation constraints can easily go awry in the presence of outliers; mapping points \textit{across} heterogeneous spaces is out of their reach. While each of these challenges has been explored independently, we propose a new framework that can handle, natively, all of these needs. The \textit{generative entropic neural OT} (GENOT) framework models the conditional distribution $\pi_\varepsilon(\*y|\*x)$ of an optimal \textit{entropic} coupling $\pi_\varepsilon$, using conditional flow matching. GENOT is generative, and can transport points \textit{across} spaces, guided by sample-based, unbalanced solutions to the Gromov-Wasserstein problem, that can use any cost. We showcase our approach on both synthetic and single-cell datasets, using GENOT to model cell development, predict cellular responses, and translate between data modalities.},
     year={2024},
     abbr={NeurIPS},
-    journal={arXiv:2310.09254},
     pdf={https://arxiv.org/pdf/2310.09254.pdf},
     booktitle={the Thirty-Eighth Annual Conference on Neural Information Processing Systems},
     selected={true}
 }
 
 @inproceedings{uscidda2024disentangled,
-      title={Disentangled Representation Learning through Geometry Preservation with the Gromov-Monge Gap}, 
-      author={Théo Uscidda* and Luca Eyring* and Karsten Roth and Fabian theis and Zeynep Akata and Marco Cuturi},
-      booktitle={the Structured Probabilistic Inference & Generative Modeling Workshop at the 41st International Conference on Machine Learning},
-      year={2024},
-      abbr={SPIGM},
-      selected={true},
-      pdf={https://arxiv.org/abs/2407.07829},
-      abstract={Learning disentangled representations in an unsupervised manner is a fundamental challenge in machine learning. Solving it may unlock other problems, such as generalization, interpretability, or fairness. While remarkably difficult to solve in general, recent works have shown that disentanglement is provably achievable under additional assumptions that can leverage geometrical constraints, such as local isometry. To use these insights, we propose a novel perspective on disentangled representation learning built on quadratic optimal transport. Specifically, we formulate the problem in the Gromov-Monge setting, which seeks isometric mappings between distributions supported on different spaces. We propose the Gromov-Monge-Gap (GMG), a regularizer that quantifies the geometry-preservation of an arbitrary push-forward map between two distributions supported on different spaces. We demonstrate the effectiveness of GMG regularization for disentanglement on four standard benchmarks. Moreover, we show that geometry preservation can even encourage unsupervised disentanglement without the standard reconstruction objective - making the underlying model decoder-free, and promising a more practically viable and scalable perspective on unsupervised disentanglement.},
+    title={Disentangled Representation Learning through Geometry Preservation with the Gromov-Monge Gap}, 
+    author={Théo Uscidda* and Luca Eyring* and Karsten Roth and Fabian theis and Zeynep Akata and Marco Cuturi},
+    booktitle={the Structured Probabilistic Inference & Generative Modeling Workshop at the 41st International Conference on Machine Learning},
+    year={2024},
+    abbr={SPIGM},
+    selected={true},
+    pdf={https://arxiv.org/abs/2407.07829},
+    abstract={Learning disentangled representations in an unsupervised manner is a fundamental challenge in machine learning. Solving it may unlock other problems, such as generalization, interpretability, or fairness. While remarkably difficult to solve in general, recent works have shown that disentanglement is provably achievable under additional assumptions that can leverage geometrical constraints, such as local isometry. To use these insights, we propose a novel perspective on disentangled representation learning built on quadratic optimal transport. Specifically, we formulate the problem in the Gromov-Monge setting, which seeks isometric mappings between distributions supported on different spaces. We propose the Gromov-Monge-Gap (GMG), a regularizer that quantifies the geometry-preservation of an arbitrary push-forward map between two distributions supported on different spaces. We demonstrate the effectiveness of GMG regularization for disentanglement on four standard benchmarks. Moreover, we show that geometry preservation can even encourage unsupervised disentanglement without the standard reconstruction objective - making the underlying model decoder-free, and promising a more practically viable and scalable perspective on unsupervised disentanglement.},
 }
 
 @inproceedings{eyring2023unbalancedness,
