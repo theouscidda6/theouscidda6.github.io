@@ -6,20 +6,23 @@
       author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
       year={2024},
       abstract={As the problem of minimizing functionals on the Wasserstein space encompasses many applications in machine learning, different optimization algorithms on \mathbb{R}^d have received their counterpart analog on the Wasserstein space. We focus here on lifting two explicit algorithms: mirror descent and preconditioned gradient descent. These algorithms have been introduced to better capture the geometry of the function to minimize and are provably convergent under appropriate (namely relative) smoothness and convexity conditions. Adapting these notions to the Wasserstein space, we prove guarantees of convergence of some Wasserstein-gradient-based discrete-time schemes for new pairings of objective functionals and regularizers. The difficulty here is to carefully select along which curves the functionals should be smooth and convex. We illustrate the advantages of adapting the geometry induced by the regularizer on ill-conditioned optimization tasks, and showcase the improvement of choosing different discrepancies and geometries in a computational biology task of aligning single-cells.},
-      abbr={arXiv},
+      abbr={NeurIPS},
       journal={arXiv:2310.09254},
       pdf={https://arxiv.org/pdf/2406.08938},
+      booktitle={the Thirty-Eighth Annual Conference on Neural Information Processing Systems},
+      award={Spotlight},
       selected={true}
 }
 
-@article{klein2023generative,
-    title={Entropic (Gromov) Wasserstein Flow Matching with GENOT}, 
+@article{klein2024entropic,
+    title={GENOT: Entropic (Gromov) Wasserstein Flow Matching}, 
     author={Dominik Klein* and Théo Uscidda* and Fabian Theis and Marco Cuturi},
     abstract={Optimal transport (OT) theory has reshaped the field of generative modeling: Combined with neural networks, recent \textit{Neural OT} (N-OT) solvers use OT as an inductive bias, to focus on ``thrifty'' mappings that minimize average displacement costs. This core principle has fueled the successful application of N-OT solvers to high-stakes scientific challenges, notably single-cell genomics. N-OT solvers are, however, increasingly confronted with practical challenges: while most N-OT solvers can handle squared-Euclidean costs, they must be repurposed to handle more general costs; their reliance on deterministic Monge maps as well as mass conservation constraints can easily go awry in the presence of outliers; mapping points \textit{across} heterogeneous spaces is out of their reach. While each of these challenges has been explored independently, we propose a new framework that can handle, natively, all of these needs. The \textit{generative entropic neural OT} (GENOT) framework models the conditional distribution $\pi_\varepsilon(\*y|\*x)$ of an optimal \textit{entropic} coupling $\pi_\varepsilon$, using conditional flow matching. GENOT is generative, and can transport points \textit{across} spaces, guided by sample-based, unbalanced solutions to the Gromov-Wasserstein problem, that can use any cost. We showcase our approach on both synthetic and single-cell datasets, using GENOT to model cell development, predict cellular responses, and translate between data modalities.},
-    year={2023},
-    abbr={arXiv},
+    year={2024},
+    abbr={NeurIPS},
     journal={arXiv:2310.09254},
     pdf={https://arxiv.org/pdf/2310.09254.pdf},
+    booktitle={the Thirty-Eighth Annual Conference on Neural Information Processing Systems},
     selected={true}
 }
 
