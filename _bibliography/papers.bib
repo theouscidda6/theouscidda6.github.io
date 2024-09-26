@@ -1,7 +1,7 @@
 ---
 ---
 
-@article{bonet2024mirror,
+@inproceedings{bonet2024mirror,
     title={Mirror and Preconditioned Gradient Descent in Wasserstein Space}, 
     author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
     year={2024},
@@ -13,7 +13,7 @@
     selected={true}
 }
 
-@article{klein2024entropic,
+@inproceedings{klein2024entropic,
     title={GENOT: Entropic (Gromov) Wasserstein Flow Matching}, 
     author={Dominik Klein* and Théo Uscidda* and Fabian Theis and Marco Cuturi},
     abstract={Optimal transport (OT) theory has reshaped the field of generative modeling: Combined with neural networks, recent \textit{Neural OT} (N-OT) solvers use OT as an inductive bias, to focus on ``thrifty'' mappings that minimize average displacement costs. This core principle has fueled the successful application of N-OT solvers to high-stakes scientific challenges, notably single-cell genomics. N-OT solvers are, however, increasingly confronted with practical challenges: while most N-OT solvers can handle squared-Euclidean costs, they must be repurposed to handle more general costs; their reliance on deterministic Monge maps as well as mass conservation constraints can easily go awry in the presence of outliers; mapping points \textit{across} heterogeneous spaces is out of their reach. While each of these challenges has been explored independently, we propose a new framework that can handle, natively, all of these needs. The \textit{generative entropic neural OT} (GENOT) framework models the conditional distribution $\pi_\varepsilon(\*y|\*x)$ of an optimal \textit{entropic} coupling $\pi_\varepsilon$, using conditional flow matching. GENOT is generative, and can transport points \textit{across} spaces, guided by sample-based, unbalanced solutions to the Gromov-Wasserstein problem, that can use any cost. We showcase our approach on both synthetic and single-cell datasets, using GENOT to model cell development, predict cellular responses, and translate between data modalities.},
