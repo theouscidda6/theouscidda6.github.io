@@ -23,17 +23,17 @@ social: true # includes social icons at the bottom of the page
 
 **Research:** I study the interplay between optimal transport (OT), generative modeling, and representational learning, 
 intending to demonstrate how OT can introduce optimality structures within flow-, diffusion-, and VAE-based models.
-I have applied the methods I developed across diverse areas, including, such as [image generation/unpaired image translation](https://arxiv.org/pdf/2311.15100.pdf), 
+I have applied the methods I developed across diverse areas, including [image generation/unpaired image translation](https://arxiv.org/pdf/2311.15100.pdf), 
 [disentangled representation learning](https://arxiv.org/abs/2407.07829), [optimization over probability spaces](https://arxiv.org/pdf/2406.08938), 
 [geographic information](https://arxiv.org/pdf/2410.11709), 
 and various single-cell genomics problems like [trajectory inference](https://arxiv.org/pdf/2310.09254.pdf), 
 [perturbation effect prediction](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf), and 
 [modality translation](https://arxiv.org/pdf/2310.09254.pdf). 
 Recently, my focus has been on using OT to enhance and/or analyze the properties 
-of foundation models, with a particular interest in state-space models. 
+of vision/language foundation models. 
 <!-- Broadly speaking, I thrive on exploring diverse learning paradigms, as I believe the most creative and impactful research ideas emerge from the synergies between different fields. -->
 
-**Experiences:** Since February 2024, I have been a visting Ph.D. student in [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)' lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en), where I have been working on generative models for single-cell perturbation discovery. Additionally, from June to August 2024, I interned at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) collaborating with [Victor Chardes](https://www.simonsfoundation.org/people/victor-chardes/) and [Surya Maddu](https://www.simonsfoundation.org/people/suryanarayana-maddu/) in [Michael Shelley](https://math.nyu.edu/~shelley/)'s team to develop generative models for inferring biophysical dynamics from omics data. During winter 2024, I will be interning with the fundamental research team of [Amazon AI](https://www.amazon.science/) with [Matthew Tragger](https://scholar.google.com/citations?user=g3sXAWkAAAAJ&hl=en) and [Alessandro Achille](https://alexachi.github.io/), where I will work on state-space models.
+**Experiences:** Since February 2024, I have been a visting Ph.D. student in [Fabian Theis](https://www.helmholtz-munich.de/en/icb/pi/fabian-theis)' lab at [Helmholtz Munich](https://www.helmholtz-munich.de/en), where I have been working on generative models for single-cell perturbation discovery. Additionally, from June to August 2024, I interned at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) collaborating with [Victor Chardes](https://www.simonsfoundation.org/people/victor-chardes/) and [Surya Maddu](https://www.simonsfoundation.org/people/suryanarayana-maddu/) in [Michael Shelley](https://math.nyu.edu/~shelley/)'s team to develop generative models for inferring biophysical dynamics from omics data. During winter 2024, I will be interning with the fundamental research team of [Amazon AI](https://www.amazon.science/) with [Matthew Tragger](https://scholar.google.com/citations?user=g3sXAWkAAAAJ&hl=en) and [Alessandro Achille](https://alexachi.github.io/), where I will work on large language models.
 
   <!-- <strong>Ph.D.</strong> with <a href="https://marcocuturi.net/">Marco Cuturi</a> @ <a href="https://crest.science/">CREST</a> - <a href="https://www.ensae.fr/">ENSAE</a>, <a href="https://www.ip-paris.fr/">Institut Polytechnique de Paris</a> <br>
   <strong>Visiting Ph.D.</strong> hosted by <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Fabian Theis</a> @ <a href="https://www.helmholtz-munich.de/en/icb/pi/fabian-theis">Helmholtz Munich</a>, <a href="https://www.tum.de/en/">Technical University of Munich</a> <br>
