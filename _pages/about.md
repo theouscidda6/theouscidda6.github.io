@@ -29,7 +29,7 @@ I have applied the methods I developed across diverse areas, including [image ge
 and various single-cell genomics problems like [trajectory inference](https://arxiv.org/pdf/2310.09254.pdf), 
 [perturbation effect prediction](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf), and 
 [modality translation](https://arxiv.org/pdf/2310.09254.pdf). 
-Recently, my focus has been on using OT to enhance and/or analyze the properties 
+Recently, my focus has been on using OT to enhance/analyze the properties 
 of vision/language foundation models. 
 <!-- Broadly speaking, I thrive on exploring diverse learning paradigms, as I believe the most creative and impactful research ideas emerge from the synergies between different fields. -->
 
