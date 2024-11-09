@@ -166,6 +166,14 @@
           </span>
           {%- endif -%}
           <!-- Links/Buttons -->
+          {%- if entry.keywords %}
+          <div class="keywords">
+            {% assign keywords = entry.keywords | split: "," %}
+            {% for keyword in keywords %}
+              <span class="keyword">{{ keyword | strip }}</span>
+            {% endfor %}
+          </div>
+          {%- endif %}
           <div class="links">
           {%- if entry.abstract %}
             <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
