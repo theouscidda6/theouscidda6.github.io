@@ -25,9 +25,9 @@ social: true # includes social icons at the bottom of the page
 I have applied the methods I developed across diverse areas, including [image generation/unpaired image translation](https://arxiv.org/pdf/2311.15100.pdf), 
 [disentangled representation learning](https://arxiv.org/abs/2407.07829), [optimization over probability spaces](https://arxiv.org/pdf/2406.08938), 
 [geographic information](https://arxiv.org/pdf/2410.11709), 
-and various single-cell genomics problems like [trajectory inference](https://arxiv.org/pdf/2310.09254.pdf), 
-[perturbation effect prediction](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf), and 
-[modality translation](https://arxiv.org/pdf/2310.09254.pdf). 
+and various single-cell genomics challenges, such as [reconstructing cellular trajectories](https://arxiv.org/pdf/2310.09254.pdf), 
+[predicting cellular responses to perturbations](https://proceedings.mlr.press/v202/uscidda23a/uscidda23a.pdf), and 
+[translating between different single-cell data modalities](https://arxiv.org/pdf/2310.09254.pdf). 
 Recently, my focus has been on using OT to enhance/analyze the properties 
 of vision/language foundation models. 
 <!-- Broadly speaking, I thrive on exploring diverse learning paradigms, as I believe the most creative and impactful research ideas emerge from the synergies between different fields. -->
