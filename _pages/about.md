@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 **Education:** I am a Ph.D. student in machine learning working with [Marco Cuturi](https://marcocuturi.net/) ([Apple MLR](https://machinelearning.apple.com/)). Prior to that, I completed a master's degree in [Mathematics, Vision and Learning](https://www.master-mva.com/) (MVA) at [ENS Paris-Saclay](https://ens-paris-saclay.fr/). During my master's thesis, I worked with [Claire Boyer](https://perso.lpsm.paris/~cboyer/) ([Sorbonne Université](https://www.sorbonne-universite.fr/)), [Julie Josse](https://juliejosse.com/) ([INRIA](https://inria.fr/fr)) and [Boris Muzellec](https://borismuzellec.github.io/) ([Owkin](https://www.owkin.com/)) at [LPSM](https://www.lpsm.paris/).
 
-**Research:** I work on the interplay between optimal transport (OT), generative modeling, and representational learning, intending to demonstrate how OT can introduce optimality structures within flow-, diffusion-, and VAE-based models, enhancing performance.
+**Research:** I work on the interplay between optimal transport (OT), generative modeling, and representational learning. I intend to demonstrate how OT can introduce optimality structures within flow-, diffusion-, and VAE-based models, enhancing performance.
 I have applied these methods across diverse areas, including [image generation/unpaired image translation](https://arxiv.org/pdf/2311.15100.pdf), 
 [disentangled representation learning](https://arxiv.org/abs/2407.07829), [optimization over probability spaces](https://arxiv.org/pdf/2406.08938), 
 [geographic information](https://arxiv.org/pdf/2410.11709), 
