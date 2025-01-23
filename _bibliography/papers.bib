@@ -1,6 +1,18 @@
 ---
 ---
 
+@inproceedings{uscidda2024disentangled,
+    title={Disentangled Representation Learning with the Gromov-Monge Gap}, 
+    author={Théo Uscidda* and Luca Eyring* and Karsten Roth and Fabian theis and Zeynep Akata and Marco Cuturi},
+    booktitle={the 13th International Conference on Learning Representations},
+    year={2025},
+    abbr={ICLR},
+    selected={true},
+    pdf={https://arxiv.org/abs/2407.07829},
+    abstract={Learning disentangled representations in an unsupervised manner is a fundamental challenge in machine learning. Solving it may unlock other problems, such as generalization, interpretability, or fairness. While remarkably difficult to solve in general, recent works have shown that disentanglement is provably achievable under additional assumptions that can leverage geometrical constraints, such as local isometry. To use these insights, we propose a novel perspective on disentangled representation learning built on quadratic optimal transport. Specifically, we formulate the problem in the Gromov-Monge setting, which seeks isometric mappings between distributions supported on different spaces. We propose the Gromov-Monge-Gap (GMG), a regularizer that quantifies the geometry-preservation of an arbitrary push-forward map between two distributions supported on different spaces. We demonstrate the effectiveness of GMG regularization for disentanglement on four standard benchmarks. Moreover, we show that geometry preservation can even encourage unsupervised disentanglement without the standard reconstruction objective - making the underlying model decoder-free, and promising a more practically viable and scalable perspective on unsupervised disentanglement.},
+    keywords={Representational Learning, Geometric Learning, Neural Optimal Transport, VAEs},
+}
+
 @inproceedings{bonet2024mirror,
     title={Mirror and Preconditioned Gradient Descent in Wasserstein Space}, 
     author={Clément Bonet and Théo Uscidda and Adam David and Pierre-Cyril Aubin-Frankowski and Anna Korba},
@@ -25,18 +37,6 @@
     booktitle={the 38th Annual Conference on Neural Information Processing Systems},
     keywords={Generative Modeling, Multimodality, Neural Optimal Transport, Flow Matching},
     selected={true}
-}
-
-@inproceedings{uscidda2024disentangled,
-    title={Disentangled Representation Learning with the Gromov-Monge Gap}, 
-    author={Théo Uscidda* and Luca Eyring* and Karsten Roth and Fabian theis and Zeynep Akata and Marco Cuturi},
-    booktitle={the Structured Probabilistic Inference & Generative Modeling Workshop at the 41st International Conference on Machine Learning},
-    year={2024},
-    abbr={SPIGM @ ICML},
-    selected={true},
-    pdf={https://arxiv.org/abs/2407.07829},
-    abstract={Learning disentangled representations in an unsupervised manner is a fundamental challenge in machine learning. Solving it may unlock other problems, such as generalization, interpretability, or fairness. While remarkably difficult to solve in general, recent works have shown that disentanglement is provably achievable under additional assumptions that can leverage geometrical constraints, such as local isometry. To use these insights, we propose a novel perspective on disentangled representation learning built on quadratic optimal transport. Specifically, we formulate the problem in the Gromov-Monge setting, which seeks isometric mappings between distributions supported on different spaces. We propose the Gromov-Monge-Gap (GMG), a regularizer that quantifies the geometry-preservation of an arbitrary push-forward map between two distributions supported on different spaces. We demonstrate the effectiveness of GMG regularization for disentanglement on four standard benchmarks. Moreover, we show that geometry preservation can even encourage unsupervised disentanglement without the standard reconstruction objective - making the underlying model decoder-free, and promising a more practically viable and scalable perspective on unsupervised disentanglement.},
-    keywords={Representational Learning, Geometric Learning, Neural Optimal Transport, VAEs},
 }
 
 @inproceedings{eyring2023unbalancedness,
